@@ -121,6 +121,7 @@ EVD System is MoboGage’s electronic voucher distribution platform family; mult
 
 - [EVD System home](https://evdsystem.com/) — platform overview for digital value distribution  
 - [What is Electronic Voucher Distribution (EVD)?](https://evdsystem.com/evd-software/what-is-electronic-voucher-distribution-evd/) — EVD concepts  
+- [Multi-tier reseller voucher distribution](https://evdsystem.com/evd-software/multi-tier-reseller-voucher-distribution/) — wallets, limits, and commissions across the tree
 
 See also [docs/glossary.md](./docs/glossary.md) for key terms.
 
